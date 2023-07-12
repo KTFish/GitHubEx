@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Pasta
-Rice
+More Rice
 Kebab
-=======
 Indiana Jones
 Batman
 Pirates
->>>>>>> movies
